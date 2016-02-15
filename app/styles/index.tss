@@ -1,0 +1,9 @@
+".container": {
+  backgroundColor: "white"
+},
+"ListItem[platform=android]": {
+  color: "black",
+  font: {
+    fontSize:16
+  }
+}
